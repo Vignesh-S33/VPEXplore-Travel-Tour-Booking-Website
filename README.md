@@ -3,6 +3,7 @@ VPEXplore – Travel Booking Multipage Website
 ---
 
 1. Project Title
+
 **VPEXplore – Travel & Tour Booking Website**
 
 ---
@@ -33,7 +34,6 @@ The main goal of this project is to create a modern tourism website with multipl
 | HTML5 | Structure of pages |
 | CSS3 | Styling and responsive design |
 | JavaScript | Dynamic functionality |
-| Google Fonts | Attractive typography |
 
 
 ---
